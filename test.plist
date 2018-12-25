@@ -11,7 +11,7 @@
 					<key>url</key>
 					<string>software-package</string>
 					<key>kind</key>
-					<string>https://github.com/ptlCoder/plist/blob/master/test.ipa</string>
+					<string>https://raw.githubusercontent.com/ptlCoder/plist/master/test.ipa</string>
 				</dict>
 				<dict>
 					<key>needs-shine</key>
