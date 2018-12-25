@@ -11,7 +11,7 @@
 					<key>url</key>
 					<string>software-package</string>
 					<key>kind</key>
-					<string>这里填IPA下载地址</string>
+					<string>https://github.com/ptlCoder/plist/blob/master/11.ipa</string>
 				</dict>
 				<dict>
 					<key>needs-shine</key>
