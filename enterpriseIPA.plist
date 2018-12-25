@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>software-package</string>
+					<key>kind</key>
+					<string>这里填IPA下载地址</string>
+				</dict>
+				<dict>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>下载时大图(非必填)</string>
+					<key>kind</key>
+					<string>full-size-image</string>
+				</dict>
+				<dict>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>下载时小图(非必填)</string>
+					<key>kind</key>
+					<string>display-image</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>企业包部署</string>
+				<key>subtitle</key>
+				<string>app(副标题)</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>bundle-identifier</key>
+				<string>com.KMHealthService.app</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
